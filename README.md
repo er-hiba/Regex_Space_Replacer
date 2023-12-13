@@ -1,2 +1,4 @@
-# Regex_Space_Replacer
-It utilizes regular expressions to replace spaces within strings with hyphens.
+## Description
+This program utilizes regular expressions to substitute spaces within a string input with hyphens.
+## Example
+<img src="eg.png">
